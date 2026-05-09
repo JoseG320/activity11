@@ -3,7 +3,7 @@
 import streamlit as st
 import requests
 
-st.title('House price estimator')
+st.title('House price estimator: Jose Gaspar Marin')
 
 # retrieve IP address from 
 VM_IP = st.secrets['VM_IP']
